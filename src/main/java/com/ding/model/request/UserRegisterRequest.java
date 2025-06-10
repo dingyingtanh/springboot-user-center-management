@@ -8,7 +8,7 @@ import java.io.Serializable;
 /**
  * 用户注册请求体
  *
- * @author dingy
+ * @author yuli
  */
 @Data
 public class UserRegisterRequest implements Serializable {

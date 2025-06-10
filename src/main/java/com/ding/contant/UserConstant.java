@@ -2,7 +2,7 @@ package com.ding.contant;
 
 /**
  * 用户常量
- * @author dingy
+ * @author yuli
  */
 public interface UserConstant {
 

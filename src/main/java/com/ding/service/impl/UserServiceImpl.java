@@ -20,7 +20,7 @@ import static com.ding.contant.UserConstant.USER_LOGIN_STATE;
 
 
 /**
-* @author dingy
+* @author yuli
 * @description 针对表【user(用户)】的数据库操作Service实现
 * @createDate 2025-05-28 17:12:10
 */
@@ -34,7 +34,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements Us
     /**
      * 加盐 混淆密码
      */
-    private static final String SALT = "dingy";
+    private static final String SALT = "yuli";
 
 
     /**

@@ -2,7 +2,7 @@ package com.ding.common;
 
 /**
  * 返回工具类
- * @author dingy
+ * @author yuli
  */
 public class ResultUtils {
 

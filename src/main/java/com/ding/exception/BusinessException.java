@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 自定义异常
- * @author dingy
+ * @author yuli
  */
 public class BusinessException extends RuntimeException {
 

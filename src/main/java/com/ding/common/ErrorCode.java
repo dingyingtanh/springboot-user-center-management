@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 错误码
- * @author dingy
+ * @author yuli
  */
 
 public enum ErrorCode {

@@ -22,7 +22,7 @@ import static com.ding.contant.UserConstant.ADMIN_ROLE;
 import static com.ding.contant.UserConstant.USER_LOGIN_STATE;
 
 /**
- * @author dingy
+ * @author yuli
  */
 @RestController
 @RequestMapping("/user")
